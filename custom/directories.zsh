@@ -3,3 +3,5 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+
+rspree=/Users/jay/code/roye/spree
