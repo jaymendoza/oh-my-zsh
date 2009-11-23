@@ -1,7 +1,3 @@
-# Add yourself some shortcuts to projects you often work on
-# Example:
-#
-# brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
-#
+rsource=/Users/jay/code/roye/spree
 
-rspree=/Users/jay/code/roye/spree
+gemdir=/opt/local/lib/ruby/gems/1.8/gems
